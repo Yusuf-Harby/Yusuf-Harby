@@ -4,9 +4,9 @@
 
 I'm a backend developer focused on Java and Spring Boot, and a competitive programmer who enjoys solving hard problems. I'm looking for Java backend roles.
 
-- 🔭 Currently building REST APIs with Spring Boot and PostgreSQL
-- 🏆 Codeforces Specialist · ACPC Finalist
-- 📫 Reach me: youssef.sorur789@gmail.com
+- Currently building REST APIs with Spring Boot and PostgreSQL
+- Codeforces Specialist · ACPC Finalist
+- Reach me: youssef.sorur789@gmail.com
 
 ## Tech Stack
 
